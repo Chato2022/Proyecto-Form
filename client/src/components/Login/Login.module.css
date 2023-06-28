@@ -1,0 +1,13 @@
+.container{
+    background: #50C9C3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #96DEDA, #50C9C3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #96DEDA, #50C9C3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 2em;
+    border-radius: 20px;
+}
+
+.title{
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+}
